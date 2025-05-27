@@ -115,7 +115,7 @@ MSc Data Analytics, University of Portsmouth
 📍 Based in London | Open to Data Science & ML Opportunities  
 📫 Email: [samialsohan@gmail.com](mailto:samialsohan@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mdsamialsohan](https://www.linkedin.com/in/mdsamialsohan/)
-🌐 Website: [samialsohan.com](https://www.samialsohan.com)
+🌐 Website: [www.samialsohan.com](https://www.samialsohan.com)
 
 ---
 
