@@ -47,12 +47,10 @@ This project explores stock price forecasting using historical trading data from
 |             | 1 Day              | Random Forest    | 3.23    |
 |             | 1 Week             | GRU              | 7.88    |
 |             | Avg. Best          | **Ensemble**     | Lowest across all |
-
 | Bata Shoe   | 15 Days            | XGBoost          | 15.08   |
 |             | 1 Day              | Random Forest    | 7.31    |
 |             | 1 Week             | XGBoost          | 13.84   |
 |             | Avg. Best          | **Ensemble**     | Best overall |
-
 | Jamuna Oil  | 15 Days            | Random Forest    | 3.37    |
 |             | 1 Day              | XGBoost          | 1.13    |
 |             | 1 Week             | XGBoost          | 2.87    |
