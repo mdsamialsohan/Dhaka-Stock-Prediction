@@ -79,7 +79,7 @@ This project explores stock price forecasting using historical trading data from
 
 ## 📂 Project Structure
 
-📁 Dhaka-Stock-Prediction/
+```📁 Dhaka-Stock-Prediction/
 ├── AMCL pran.ipynb
 ├── Bata.ipynb
 ├── JamunaOil.ipynb
@@ -88,9 +88,8 @@ This project explores stock price forecasting using historical trading data from
 │ ├── AMCL(PRAN)_data.csv
 │ ├── BATASHOE_data.csv
 │ └── JAMUNAOIL_data.csv
-├── requirements.txt
 └── README.md
-
+```
 
 ---
 
